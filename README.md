@@ -1,4 +1,4 @@
-# hy-vue-temp
+# easy-vue2-temp
 
 ## Project setup
 ```
